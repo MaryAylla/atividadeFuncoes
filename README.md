@@ -1,0 +1,1 @@
+Conjunto adicional de exercícios voltados ao uso de funções em JavaScript. Cada atividade traz uma proposta diferente, permitindo o aprofundamento da lógica, modularização e clareza no código. O objetivo foi continuar praticando e aperfeiçoando o entendimento sobre funções e suas aplicações.
